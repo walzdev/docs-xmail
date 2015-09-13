@@ -1,0 +1,13 @@
+enabled: true
+top_level_version: false
+home_url: 'https://github.com/walzdev/docs-xmail/blob/master/'
+github:
+  position: top
+  tree: 'https://github.com/walzdev/docs-xmail/blob/master/'
+  commits: 'https://github.com/walzdev/docs-xmail/commits/master/'
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/learn2
