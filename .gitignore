@@ -1,0 +1,20 @@
+# Sass
+.sass-cache
+
+# Grav Specific
+data/*
+!data/.*
+plugins/*
+!plugins/.*
+accounts
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# phpstorm
+.idea/*
+themes/learn2
+*.css.map
