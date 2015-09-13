@@ -4,7 +4,7 @@
 
 This repository contains the source of the [Xmail](https://github.com/devxive/xmail) documentation, currently accessible at [http://docs.support.walz.ag/xmail](docs.support.walz.ag/xmail).
 
-The documentation is contained in [pages/](Pages) and is structured in folders (chapters), exactly as you see them on the main website. The entirety of the repo found here is intended to act as the `user/` folder in a [Grav](http://getgrav.org) install. This repo contains themes, configuration files, and settings that enable the documentation to be presented in the way they do on [the documentation site](http://docs.support.walz.ag/xmail).
+The documentation is contained in [Pages/](pages) and is structured in folders (chapters), exactly as you see them on the main website. The entirety of the repo found here is intended to act as the `user/` folder in a [Grav](http://getgrav.org) install. This repo contains themes, configuration files, and settings that enable the documentation to be presented in the way they do on [the documentation site](http://docs.support.walz.ag/xmail).
 
 You can read all of the documentation within (as it's just in plain text files) marked up with [Markdown](http://daringfireball.net/projects/markdown/).
 
